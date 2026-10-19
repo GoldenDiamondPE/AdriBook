@@ -1,14 +1,14 @@
 {
-	"name": "my-next-app",
+	"name": "adribook",
 	"version": "0.1.0",
 	"private": true,
 	"packageManager": "npm@11.20.0",
 	"dependencies": {
-		"@vinext/cloudflare": "latest",
+		"@vinext/cloudflare": "^0.2.1",
 		"react": "latest",
 		"react-dom": "latest",
 		"react-server-dom-webpack": "latest",
-		"vinext": "latest"
+		"vinext": "^0.2.1"
 	},
 	"devDependencies": {
 		"@cloudflare/vite-plugin": "beta",
